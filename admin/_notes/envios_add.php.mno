@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_cunsulta_envios" value="name:id;datatype:int,name:tipo_envio;datatype:string,name:costo;datatype:string" />
+</info>

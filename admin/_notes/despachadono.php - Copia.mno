@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_despachono" value="name:id;datatype:int,name:idcliente;datatype:int,name:nroPedido;datatype:int,name:fecha;datatype:timestamp,name:status;datatype:int" />
+</info>

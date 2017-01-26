@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_consulta_usuario" value="name:id;datatype:int" />
+	<infoitem key="UD_DetailRS1" value="name:id;datatype:int,name:razon_social;datatype:string,name:representante;datatype:string,name:cedula;datatype:string,name:email;datatype:string,name:clave;datatype:string,name:nivel;datatype:int,name:direccion;datatype:string,name:dir_despacho;datatype:string,name:telefono;datatype:string,name:telf_movil;datatype:string,name:fax;datatype:string,name:fecha;datatype:timestamp" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_vercod" value="name:id;datatype:int,name:prod;datatype:string,name:precio;datatype:string,name:cant;datatype:string" />
+</info>

@@ -1,0 +1,46 @@
+@charset "utf-8";
+.footer{
+    width:100%;
+
+    position:fixed;
+    bottom:0px;
+}
+
+.status {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.status .panel-title {
+    font-family: 'Oswald', sans-serif;
+    font-size: 72px;
+    font-weight: bold;
+    color: #fff;
+    line-height: 45px;
+    padding-top: 20px;
+    letter-spacing: -0.8px;
+}
+
+
+
+
+.panel-verde {
+  border-color: #390;
+}
+.panel-verde > .panel-heading {
+  color: #fff;
+  background-color: #390;
+  border-color: #390;
+}
+
+.panel-fugcia {
+  border-color: #E30691;
+}
+.panel-fugcia > .panel-heading {
+  color: #fff;
+  background-color: #E30691;
+  border-color: #E30691;
+}
+
+.h0 {
+	font-size:60px;
+	
+	}
